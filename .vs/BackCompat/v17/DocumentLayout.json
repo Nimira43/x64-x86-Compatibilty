@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arimi\\Project-8\\Assembly\\Gbati\\BackCompat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4F74B-80AB-4DB9-9892-80F6F2A7C79E}|BackCompat.vcxproj|C:\\Users\\arimi\\Project-8\\Assembly\\Gbati\\BackCompat\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{17A4F74B-80AB-4DB9-9892-80F6F2A7C79E}|BackCompat.vcxproj|solutionrelative:Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.asm",
+              "DocumentMoniker": "C:\\Users\\arimi\\Project-8\\Assembly\\Gbati\\BackCompat\\Main.asm",
+              "RelativeDocumentMoniker": "Main.asm",
+              "ToolTip": "C:\\Users\\arimi\\Project-8\\Assembly\\Gbati\\BackCompat\\Main.asm",
+              "RelativeToolTip": "Main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-15T12:39:49.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
